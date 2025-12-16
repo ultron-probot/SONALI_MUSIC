@@ -28,7 +28,7 @@ import config
 from os import getenv
 
 API_URL = getenv("API_URL", 'https://pytdbotapi.thequickearn.xyz')
-API_KEY = getenv("API_KEY", 'YOUR_KEY')
+API_KEY = getenv("API_KEY", '30DxNexGenBots71dc22')
 VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
 
 def cookie_txt_file():
